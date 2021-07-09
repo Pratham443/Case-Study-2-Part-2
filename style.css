@@ -1,0 +1,36 @@
+li {
+    background-color: gray;
+    color: white;
+    height: 500px;
+    width: 90%;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+li img {
+    float: left;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    border: 20px gray solid;
+}
+
+.header {
+    color: red;
+}
+
+.result {
+    text-align: left;
+    margin-left: 50%;
+}
+
+hr {
+    width: 50%;
+}
+
+.mini_conclusion2 {
+    background: linear-gradient(90deg, lightgray, darkgray, gray);
+    height: 200px;
+    border-radius: 15px;
+    color: white;
+}
